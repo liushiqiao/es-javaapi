@@ -7,7 +7,7 @@
     <groupId>org.example</groupId>
     <artifactId>es-javaapi</artifactId>
     <version>1.0-SNAPSHOT</version>
-
+    <packaging>jar</packaging>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
@@ -51,5 +51,30 @@
             <version>1.16.10</version>
             <scope>provided</scope>
         </dependency>
+        <dependency>
+            <groupId>org.example</groupId>
+            <artifactId>es-javaapi</artifactId>
+            <version>1.0-20200412.025431-1</version>
+        </dependency>
     </dependencies>
+
+    <distributionManagement>
+        <repository>
+            <id>netease_maven_release</id>
+            <url>http://localhost:4088/repository/maven-releases/</url>
+        </repository>
+        <snapshotRepository>
+            <id>netease_maven_snapshot</id>
+            <url>http://localhost:4088/repository/maven-snapshots/</url>
+        </snapshotRepository>
+    </distributionManagement>
+
+    <repositories>
+        <repository>
+            <id>lsqnexus</id>
+            <url>http://localhost:4088/repository/maven-public/</url>
+            <releases><enabled>true</enabled></releases>
+            <snapshots><enabled>true</enabled></snapshots>
+        </repository>
+    </repositories>
 </project>
