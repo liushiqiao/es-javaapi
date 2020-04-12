@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dd3ecb8a-0ff8-4e75-9171-2b5bb21c8f34" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/a.text" beforeDir="false" afterPath="$PROJECT_DIR$/a.text" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +43,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../imooc-coupon" />
-    <property name="settings.editor.selected.configurable" value="terminal" />
+    <property name="settings.editor.selected.configurable" value="vcs.Subversion.Network" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -139,7 +139,7 @@
     </recent_temporary>
   </component>
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>C:\Users\rgznl\AppData\Roaming\Subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -149,7 +149,7 @@
       <option name="presentableId" value="Default" />
       <updated>1586533889815</updated>
       <workItem from="1586533892803" duration="17367000" />
-      <workItem from="1586654500291" duration="6300000" />
+      <workItem from="1586654500291" duration="8742000" />
     </task>
     <task id="LOCAL-00001" summary="文档添加">
       <created>1586584718910</created>
@@ -158,33 +158,55 @@
       <option name="project" value="LOCAL" />
       <updated>1586584718910</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="文档添加">
+      <created>1586666224488</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1586666224488</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="文档添加" />
     <option name="LAST_COMMIT_MESSAGE" value="文档添加" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="275" y="25" key="#Notifications" timestamp="1586666372772">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="25" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1586666372772" />
     <state x="431" y="172" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586666016339">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="431" y="172" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1586666016339" />
-    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1586584717763">
+    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1586668529257">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1586584717763" />
+    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1586668529257" />
     <state width="479" height="457" key="DebuggerActiveHint" timestamp="1586575913433">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="479" height="457" key="DebuggerActiveHint/0.0.1366.728@0.0.1366.728" timestamp="1586575913433" />
-    <state x="445" y="81" key="FileChooserDialogImpl" timestamp="1586665683472">
+    <state x="576" y="172" key="FileChooserDialogImpl" timestamp="1586667780170">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="445" y="81" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1586665683472" />
+    <state x="576" y="172" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1586667780170" />
     <state x="546" y="227" width="274" height="241" key="Github.ShareDialog" timestamp="1586584097486">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -225,17 +247,21 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="2" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1586603160956" />
-    <state x="186" y="9" key="SettingsEditor" timestamp="1586665702569">
+    <state x="186" y="9" key="SettingsEditor" timestamp="1586668088235">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="186" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1586665702569" />
-    <state x="275" y="100" key="Vcs.Push.Dialog.v2" timestamp="1586584720599">
+    <state x="186" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1586668088235" />
+    <state x="275" y="100" key="Vcs.Push.Dialog.v2" timestamp="1586667792777">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="100" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1586584720599" />
+    <state x="275" y="100" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1586667792777" />
     <state x="375" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1586654514169">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="375" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1586654514169" />
+    <state x="445" y="79" key="git4idea.branch.GitSmartOperationDialog" timestamp="1586668647761">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="445" y="79" key="git4idea.branch.GitSmartOperationDialog/0.0.1366.728@0.0.1366.728" timestamp="1586668647761" />
   </component>
 </project>
